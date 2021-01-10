@@ -4,7 +4,7 @@ Bonjour je suis **Julioju**.
 # Mes Projets
 | Projets        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
-| Graphicoum      | [Site](https://github.com/tovade/Mongo-DB-bot) | Un bot discord basé sur le graphisme. |
+| Graphicoum      | [Site](https://graphicoum.xyz) | Un bot discord basé sur le graphisme. |
 
 ![juioju](https://github-readme-stats.vercel.app/api?username=julioju1015&show_icons=true&theme=tokyonight&hide=["issues"])
 
