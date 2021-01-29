@@ -1,5 +1,6 @@
 # Julioju
 Bonjour je suis **Julioju**.
+Je suis développeur de bot discord et de site internet.
 
 # Mes Projets
 | Projets        | URL           | Description |
