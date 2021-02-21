@@ -12,7 +12,7 @@ Je suis développeur de bot discord et de site internet.
 | Projets        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
 | Youpla      | [Soon](https://graphicoum.xyz) | Youpla c'est un nouveau bot discord de bump |
-| SOON      | [Soon](https://graphicoum.xyz) | NOON |
+| SOON      | [Soon](https://graphicoum.xyz) | SOON |
 
 ![juioju](https://github-readme-stats.vercel.app/api?username=julioju1015&show_icons=true&theme=tokyonight&hide=["issues"])
 
