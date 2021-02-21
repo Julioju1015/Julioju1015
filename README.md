@@ -6,7 +6,7 @@ Je suis développeur de bot discord et de site internet.
 # Mon Site
 |Lien      | Pour           | Mon Site |
 | ------------- |:-------------:|:--------------:|
-| [Julioju.fr](https://julioju.fr)  |
+| [Julioju.fr](https://julioju.fr)  |  [Julioju.fr](https://julioju.fr)  |  [Julioju.fr](https://julioju.fr)  |
 
 # Mes Projets
 | Projets        | URL           | Description |
