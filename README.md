@@ -16,4 +16,6 @@ Je suis développeur de bot discord et de site internet.
 
 ![juioju](https://github-readme-stats.vercel.app/api?username=julioju1015&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![julioju](https://github-readme-stats.vercel.app/api/top-langs?username=julioju&show_icons=true&theme=tokyonight&layout=compact)
+![julioju](https://github-readme-stats.vercel.app/api/top-langs?username=julioju1015&show_icons=true&theme=tokyonight&layout=compact)
+
+
